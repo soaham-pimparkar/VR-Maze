@@ -1,4 +1,5 @@
-VR-Maze
+#VR-Maze
+
 To get a better understanding of virtual reality through project-based learning, I have built this first-person VR-based maze solving game using Unity 3D Game Engine
 
 Resources and Softwares used: Unity 3D engine Google GVR sdk Dev assets (https://lnkd.in/dv2KTMqH)
