@@ -731,11 +731,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template_3D
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\soaha\Desktop\Projects\CG mini project\vrMazeGame\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: Code_Red_Studios
+  metroCertificateIssuer: Code_Red_Studios
+  metroCertificateNotAfter: 80587a135428da01
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 
